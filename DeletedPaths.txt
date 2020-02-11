@@ -1,0 +1,11 @@
+C:\WINDOWS\TEMP
+C:\Users\USER\AppData\Local\Temp
+C:\Users\USER\AppData\Local\Microsoft\Windows\INetCache
+C:\Users\USER\AppData\Local\Microsoft\Windows\INetCache\Content.IE5
+
+
+
+
+
+
+
